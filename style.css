@@ -25,3 +25,18 @@
     font-weight: 600; 
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.btn-discover-admin{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(231, 117, 24);
+    background-color: #212529;
+    color: white;
+    transition: hover 0.5s;
+}
+
+.btn-discover-admin:hover{
+    background: linear-gradient(90deg, #ff7e5f, #feb47b);
+    color: white !important;
+    border: none !important;
+}
